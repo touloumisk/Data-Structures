@@ -5,4 +5,4 @@ The repository contains code in C++ for implementing <br>
 2-Binary tree <br>
 3-Single linked list <br>
 4-Full persistent B tree <br>
-Some other code in include in the Other folder
+Some other code is included in the Other folder
